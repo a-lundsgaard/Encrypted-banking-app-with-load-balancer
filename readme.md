@@ -1,6 +1,4 @@
-Databasen er implementeret i MongoDB Atlas som kører online. 
-Derfor skal der ikke ændres i connection-string som forbinder API'et til databasen i db.js
-
+Databasen er oprindeligt implementeret i MongoDB Atlas som kører online. 
 
 Her følger en guide til at køre programmet på Windows og Mac
 
@@ -8,7 +6,7 @@ For at køre systemet skal følgende programmer være installeret:
 - Node.js, for at kunne køre JavaScript
 - Git, for at kunne køre .sh filer
 
-Desuden skal connection string ændres til en mongodb-forbindelse under database > db.js
+Connection string ændres til en mongodb-forbindelse under database > db.js
 
 På Windows:
 
